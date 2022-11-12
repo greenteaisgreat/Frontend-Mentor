@@ -8,6 +8,23 @@ html {
 
 
 body {
+    background-color: rgb(242, 237, 230);
 font-family: 'Fraunces', serif;
 font-family: 'Montserrat', sans-serif;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    border: solid red 1px;
+    border-radius: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
