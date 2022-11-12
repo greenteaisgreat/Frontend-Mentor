@@ -14,9 +14,8 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+ width: 200px;
+ height: 200px;
 }
 
 main {
